@@ -1,0 +1,21 @@
+a{
+    border-radius: 10px;
+    background-color: #b11db3;
+    padding: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.imagen1{
+    margin: 100px;
+    text-align: center;
+}
+
+#parrafo1{
+    padding: 20px;
+}
